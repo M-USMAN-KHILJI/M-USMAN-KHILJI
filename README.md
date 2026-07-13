@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm M. Usman Khurram 👋</h1>
-<h3 align="center">Aspiring Python Developer | Front-End Developer | Data & Automation Enthusiast</h3>
+<h1 align="center">Hi, I'm M. Usman Khilji 👋</h1>
+<h3 align="center">Aspiring Python Developer | React Js Developer | Data Analysis & Automation Enthusiast | React Native Developer</h3>
 
 <p align="center">
   <a href="https://usmansportfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
