@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm M. Usman Khilji 👋</h1>
-<h3 align="center">Aspiring Python Developer | React Js Developer | Data Analysis & Automation Enthusiast | React Native Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=M.%20Usman%20Khurram&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=PYTHON%20DEVELOPER%20%7C%20FRONT-END%20DEVELOPER%20%7C%20DATA%20ANALYSIS%20AND%20AUTOMATION%20ENTHUSIAST&descAlignY=68&descSize=16" alt="header banner" />
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Aspiring+Python+Developer;Front-End+and+React+Native+Developer;Data+Analysis+and+Automation+Enthusiast;Building+AI-Powered+Systems" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <a href="https://usmansportfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -13,9 +16,11 @@
   <img src="https://komarev.com/ghpvc/?username=M-USMAN-KHILJI&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=20&section=header" alt="divider" />
 
 ### 🚀 About Me
+
+<img align="right" width="250" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif3.gif" alt="coding animation" />
 
 I'm a versatile developer with hands-on experience across **data analysis, automation, AI systems, and web development**. I enjoy building automated workflows, developing AI agents, analyzing real-world datasets, and creating responsive front-end interfaces — and I'm currently expanding into mobile development as well.
 
@@ -26,13 +31,14 @@ I'm a versatile developer with hands-on experience across **data analysis, autom
 - 🎯 **Available for internships — Onsite or Remote**
 - 📫 Reach me at **khiljiu98@gmail.com**
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=20&section=header" alt="divider" />
 
 ### 🧰 Tech Stack & Tools
 
 **Languages & Web**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -55,7 +61,7 @@ I'm a versatile developer with hands-on experience across **data analysis, autom
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=20&section=header" alt="divider" />
 
 ### 💼 Internship Experience
 
@@ -63,12 +69,16 @@ I'm a versatile developer with hands-on experience across **data analysis, autom
 |---|---|---|---|
 | React Native Intern | Senew Tech | Onsite | Currently Working |
 | Front-End Developer Intern | CodeAlpha | Remote | Jun 10 – Jun 20, 2026 |
-| Python / Data Science Intern | CodeAlpha | Remote | Jun 1 – Jun 3, 2026 |
-| Data Analytics Intern | Optimus Automate | Remote | Jun 4 – Jun 5, 2026 |
+| Python / Data Science Intern | CodeAlpha | Remote | Jun 1 – 30, 2026 |
+| Data Analytics Intern | Optimus Automate | Remote | Jun 1 – 30, 2026 |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=20&section=header" alt="divider" />
 
 ### 🏗️ Featured Projects
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=800&color=8A2BE2&center=false&vCenter=true&width=500&lines=Data+Analysis+%7C+Automation+%7C+Web+%7C+Mobile" alt="projects typing" />
+</p>
 
 - **🏠 [Real Estate Data Analysis](https://github.com/M-USMAN-KHILJI/Real-Estate-Data-analyzation)** — Analyzed Zameen.com property listings with Python, Pandas, NumPy, Matplotlib & Seaborn; found 5 Marla as the most popular size and Houses as the dominant type
 - **📊 [CodeAlpha Data Analytics Projects](https://github.com/M-USMAN-KHILJI/data-Analytics-project-codealpha)** — Collection of EDA, data visualization, web scraping, and sentiment analysis projects from the CodeAlpha internship
@@ -80,4 +90,13 @@ I'm a versatile developer with hands-on experience across **data analysis, autom
 - **🤖 AI Hiring Agent** — Recruitment automation system that reads emails, detects job applications, and extracts candidate info using AI agents
 - **🛍️ AI Automated Clothing Store** — AI-powered eCommerce automation handling customer queries, stock checks, and order processing
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=20&section=header" alt="divider" />
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=20&section=header" alt="divider" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer banner" />
+
+<p align="center">
+  <i>Versatile across the stack — data science, front-end development, and mobile app development.</i>
+</p>
