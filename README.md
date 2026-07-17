@@ -77,7 +77,7 @@ I'm a versatile developer with hands-on experience across **data analysis, autom
 ### 🏗️ Featured Projects
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=800&color=8A2BE2&center=false&vCenter=true&width=500&lines=Data+Analysis+%7C+Automation+%7C+Web+%7C+Mobile" alt="projects typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=800&color=8A2BE2&center=false&vCenter=true&width=500&lines=Data+Analysis+%7C+Automation+%7C+Web+Developer+%7C+Mobile+Application+Developer" alt="projects typing" />
 </p>
 
 - **🏠 [Real Estate Data Analysis](https://github.com/M-USMAN-KHILJI/Real-Estate-Data-analyzation)** — Analyzed Zameen.com property listings with Python, Pandas, NumPy, Matplotlib & Seaborn; found 5 Marla as the most popular size and Houses as the dominant type
