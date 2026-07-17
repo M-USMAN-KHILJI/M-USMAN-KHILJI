@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=M.%20Usman%20Khurram&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=PYTHON%20DEVELOPER%20%7C%20FRONT-END%20DEVELOPER%20%7C%20DATA%20ANALYSIS%20AND%20AUTOMATION%20ENTHUSIAST&descAlignY=68&descSize=16" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=M.%20Usman%20Khilji&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=PYTHON%20DEVELOPER%20%7C%20FRONT-END%20DEVELOPER%20%7C%20DATA%20ANALYSIS%20AND%20AUTOMATION%20ENTHUSIAST&descAlignY=68&descSize=16" alt="header banner" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Aspiring+Python+Developer;Front-End+and+React+Native+Developer;Data+Analysis+and+Automation+Enthusiast;Building+AI-Powered+Systems" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Aspiring+Python+Developer;React+Js+and+React+Native+Developer;Data+Analysis+and+Automation+Enthusiast;Building+AI-Powered+Systems" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
